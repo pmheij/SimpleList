@@ -9,7 +9,7 @@ void List::print_menu()
 
     cout << "******************************\n";
     cout << "1 - Print List\n";
-    cout << "2 - Add item";
+    cout << "2 - Add item\n";
     cout << "3 - Delete item\n";
     cout << "4 - Quit and exit program\n";
     cout << "Enter choice and press return ";
